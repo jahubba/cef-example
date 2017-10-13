@@ -5,3 +5,7 @@ node_modules
 .pip
 .cache
 .config
+.bash_history
+.oracle_jre_usage
+.ssh
+.viminfo
